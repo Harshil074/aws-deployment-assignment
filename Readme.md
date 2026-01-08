@@ -31,6 +31,7 @@ Copy code
 
 ## ✅ Status
 All services stopped to avoid unnecessary AWS charges.
-Please review the world file, accompanied by attached screenshots of the project.
+Please review the pdf file, accompanied by attached screenshots of the project.
 Thank you
+
 

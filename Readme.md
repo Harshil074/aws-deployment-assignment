@@ -29,9 +29,20 @@ docker/
 css
 Copy code
 
-## ✅ Status
-All services stopped to avoid unnecessary AWS charges.
-Please review the pdf file, accompanied by attached screenshots of the project.
-Thank you
+Live URLs (Before Stopping Instances)
+## 🔗 Deployed Application URLs (Stopped after submission to avoid AWS cost)
+
+- Task 1 (Single EC2): http://13.203.197.253:3000
+- Task 2 (Separate EC2s):
+  - Frontend: http://65.0.122.128:3000
+  - Backend API: http://13.127.121.43:5000/api/data
+- Task 3 (ECS + ALB):
+  - Application Load Balancer URL:
+    http://frontend-alb-935599827.ap-south-1.elb.amazonaws.com
+  - API Endpoint:
+    http://frontend-alb-935599827.ap-south-1.elb.amazonaws.com/api/data
+
+    > Note: All AWS resources were stopped after successful verification to avoid additional AWS costs.
+
 
 
